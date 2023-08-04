@@ -1,0 +1,23 @@
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\bin\Debug\GA Ibn Sina.exe
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\bin\Debug\GA Ibn Sina.pdb
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\bin\Debug\GA Ibn Sina.xml
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.Form1.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.Resources.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA Ibn Sina.vbproj.GenerateResource.Cache
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA Ibn Sina.exe
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA Ibn Sina.xml
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA Ibn Sina.pdb
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.Form2.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.AfficherToutE.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.AfficherToutU.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.AjoutEtudiant.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.AjoutUser.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.Modifier_menu.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.modifierpwd.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.statistique.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.Etudiant_Statistique.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\bin\Debug\itextsharp.dll
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA Ibn Sina.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.massar.resources
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\bin\Debug\GA Ibn Sina.exe.config
+C:\Users\lenovo\eclipse\documents\visual studio 2010\Projects\GA Ibn Sina\GA Ibn Sina\obj\x86\Debug\GA_Ibn_Sina.Form3.resources
